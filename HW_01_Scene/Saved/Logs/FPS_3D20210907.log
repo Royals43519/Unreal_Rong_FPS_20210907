@@ -3961,3 +3961,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.18-09.26.00:042][503]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.18-09.26.00:042][503]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
 [2021.09.18-09.26.00:042][503]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.18-09.35.59:973][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.09.18-09.35.59:975][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.034
+[2021.09.18-09.35.59:975][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/玩家/Ch03_nonPBR_Skeleton] ([1] browsable assets)...
+[2021.09.18-09.35.59:975][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/玩家/Ch03_nonPBR_Skeleton]
+[2021.09.18-09.35.59:977][360]LogSavePackage: Moving '../../../../../3D Class/Unreal 3D FPS/Unreal_Rong_FPS_20210907/HW_01_Scene/Saved/Ch03_nonPBR_Skeleton_Auto26465DE224ABF72E04592FF8B7A8927E3.tmp' to '../../../../../3D Class/Unreal 3D FPS/Unreal_Rong_FPS_20210907/HW_01_Scene/Saved/Autosaves/Game/玩家/Ch03_nonPBR_Skeleton_Auto2.uasset'
+[2021.09.18-09.35.59:978][360]LogFileHelpers: Auto-saving content packages took 0.003
